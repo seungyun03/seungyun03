@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=seungyoon%20&fontSize=90" />
 <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 자기소개 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 알고리즘 초보입니다.         </li></li>ai에 대해 더 알아보고 싶습니다    </li></li>현재는 studyapp 사이드 프로젝트 진행중입니다!!    </li></li>초심을 잃지않고 정진하겠습니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">         </li></li>ai에 대해 더 알아보고 싶습니다    </li></li>   </li></li> </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
